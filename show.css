@@ -1,0 +1,32 @@
+
+th,td{
+    padding: 10px;
+}
+td
+{
+    background-color:rgba(255, 255, 255, 0.637);   
+}
+th{
+    border: 2px ;
+    background-color:rgb(57, 147, 182);
+
+}
+body
+{
+    
+    background-image:url('ANA.jpg');
+    background-size:cover;
+}
+table
+{
+    margin-top:-20px;
+    
+}
+h1{
+    margin-top:80px;
+    font-size:50px;
+    text-align: center;    
+    font-family: "Times New Roman", Times, serif;
+    font-style: oblique;
+    font-variant: normal;
+}

@@ -1,0 +1,38 @@
+body
+{
+    background-image:url("p8.jpg");
+    background-size:cover;
+}
+input{
+    margin-bottom: 20px;
+    width: 400px;
+    height: 40px;
+}
+.i{
+    margin-left: 20px;
+}
+.t{
+    margin-left: 55px;
+}
+.s{
+    margin-left: 46px;
+}
+.e{
+    margin-left: 40px;
+}
+.le{
+    margin-left: 43px;
+}
+.sea{
+    margin-left: 51px;
+}
+.h{
+    margin-left: 8px;
+}
+h1{
+ text-align: center;
+}
+.container{
+    text-align: center;
+    margin-top: 60px;
+}
